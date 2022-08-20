@@ -2,7 +2,6 @@
 四阶龙格库塔法的Matlab实现。  
 使用Matlab实时脚本rk4.mlx进行演示，并打印为rk4.pdf  。
 lab_ode_rk4.m 四阶龙格库塔法的核心代码  
-non_linear_d_func.m  非线性微分方程
 
 龙格库塔法是一种求解常微分方程的数值解法，微分方程可以是线性也可以是非线性的。
 $$\dot{x}=f(x,u)$$
